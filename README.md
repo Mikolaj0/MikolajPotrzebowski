@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikołaj Potrzebowski</h1>
  🖥️ I’m interested in computer science
+ 
  🤖 I'm starting to learn programming
 <h3 align="left">Connect with me:</h3>
 <p align="left">
