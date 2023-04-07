@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mikołaj Potrzebowski</h1>
 <ul>
  <li>🖥️ I’m interested in computer science</li>
- 
- 🤖 I'm starting to learn programming
+ <li>🤖 I'm starting to learn programming</li>
+</ul> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Deris#9300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Deris#9300" height="30" width="40" /></a>
