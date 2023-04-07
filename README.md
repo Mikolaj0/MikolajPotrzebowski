@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikołaj Potrzebowski</h1>
-- 🖥️ I’m interested in computer science
-
-- 🤖 I'm starting to learn programming
+ 🖥️ I’m interested in computer science
+ 🤖 I'm starting to learn programming
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mikiboszy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mikiboszy" height="30" width="40" /></a>
