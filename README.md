@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Mikołaj Potrzebowski</h1>
+<h1>Hi 👋, I'm Mikołaj</h1>
 <ul>
  <li>🖥️ I’m interested in computer science</li>
  <li>🤖 I'm starting to learn programming</li>
